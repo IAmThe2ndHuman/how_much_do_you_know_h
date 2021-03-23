@@ -1,16 +1,18 @@
-# how_much_do_you_know_h
+# hola
 
-A new Flutter application.
+ok so basically im bored and i dont want to forget how to use dart so to retain my knowledge i am making a quiz app based (based XDDDDDD) on the letter h and more.
 
-## Getting Started
+## status
 
-This project is a starting point for a Flutter application.
+shut up. i only made the main homepage 
 
-A few resources to get you started if this is your first Flutter project:
+## devices
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+do not compile to android or ios. this only works on the web because it uses the http package and my trololol xdd doesnt work with something like [url_launcher](https://pub.dev/packages/url_launcher) 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![el](https://i.imgur.com/l6zhZMj.jpg)
+
+i hope that image loaded im bad at markdown
+
+ok bye
+
